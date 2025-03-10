@@ -1,6 +1,7 @@
 # Bamboo-in-the-Sky-Game 🎮
 
 A fully-featured game made with Python and Pygame, including:
+
 ✅ graphics
 
 ✅ Sound effects & background music
