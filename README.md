@@ -2,8 +2,11 @@
 
 A fully-featured game made with Python and Pygame, including:
 ✅ graphics
+
 ✅ Sound effects & background music
+
 ✅ Main menu with high score tracking
+
 ✅ Game over screen with restart option
 
 📷 Screenshots
