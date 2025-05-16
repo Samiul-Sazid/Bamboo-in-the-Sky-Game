@@ -38,13 +38,3 @@ A fully-featured game made with **Python** and **Pygame**, offering an engaging 
    pip install pygame
    ```
 
-2️⃣ Run the game:
-   ```sh
-   python main.py
-   ```
-
----
-
-
-Got suggestions or improvements? Let me know! 😃
-
